@@ -27,5 +27,5 @@ Before editing this source code, in order to follow GPL license, make sure to fo
 If you face any issue feel free to report it on github and join the support server!
 
 # Credits
-Proxyscrape [website](https://proxyscrape.com) for http/s and socks4 proxies.
+Proxyscrape [website](https://proxyscrape.com) for http/s and socks4 proxies.\
 Hookzof's rotating [proxy list](https://github.com/hookzof/socks5_list) for socks5 proxies.
