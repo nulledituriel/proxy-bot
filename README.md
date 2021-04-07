@@ -20,7 +20,7 @@ Before editing this source code, in order to follow GPL license, make sure to fo
 **Usage**
 1. clone this repository / download the files
 2. run `npm i` to install necessary dependencies
-3. edit `config.json` with your personnal details
+3. edit `config.js` with your personnal details
 4. run `node index.js` :)
 
 # Issues and support
